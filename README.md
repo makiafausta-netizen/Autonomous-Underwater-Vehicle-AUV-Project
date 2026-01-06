@@ -23,4 +23,4 @@ Developed modular, real-time software for an Autonomous Underwater Vehicle (AUV)
 ## Demo Video of underwater navigation
 [![Watch the AUV Demo](images/auv_demo_thumbnail.png)](https://youtu.be/AJNREKKMNo0?si=vlkvyN2b-XhaDa6w)  
 
-*The video demonstrates real-time autonomous navigation, sensor fusion, and obstacle avoidance implemented with ROS2 and embedded systems.*
+*The video demonstrates real-time autonomous navigation of the AUV*
