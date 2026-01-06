@@ -17,7 +17,7 @@ Developed modular, real-time software for an Autonomous Underwater Vehicle (AUV)
 
 ## Outcome & Achievements
 - Successfully deployed autonomous navigation and obstacle avoidance software in real-world underwater tests.  
-- Strengthened expertise in **embedded systems, real-time software, sensor processing, and autonomous navigation**—directly relevant to robotics and AI-driven systems.  
+- Strengthened expertise in **embedded systems, real-time software, sensor processing, and autonomous navigation**directly relevant to robotics and AI-driven systems.  
 - Demonstrated practical experience in **end-to-end robotic autonomy** applicable to control, navigation, and AI model deployment.
 
 ## Demo Video of underwater navigation
